@@ -34,12 +34,12 @@ body{
     justify-content: space-between;
  }
 
- .weather-app-details strong{ color: #cf49a2;}
+ .weather-app-details strong{ color:#f65282;}
 
  .weather-app-temperature-container{
     display: flex;
  }
-
+ 
  .temperature-value{
     font-size: 80px;
  }
